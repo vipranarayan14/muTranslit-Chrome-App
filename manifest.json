@@ -8,6 +8,6 @@
       "scripts": ["background.js"]
     }
   },
-  "icons": { "16": "commons/rsrcs/transliterater-16.png", "128": "commons/rsrcs/transliterater-128.png" },
+  "icons": { "16": "muTranslit/commons/rsrcs/transliterater-16.png", "128": "muTranslit/commons/rsrcs/transliterater-128.png" },
   "permissions" : ["webview"]
 }
